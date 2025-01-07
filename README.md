@@ -1,12 +1,61 @@
-# todo
+# Hive Posts Viewer
 
-A new Flutter project.
+A Flutter application that fetches and displays posts from the Hive.blog API.
 
-## Getting Started
+This app demonstrates how to consume an API and display posts in a user-friendly UI, showing details like:
+- Post title
+- Author name
+- Community name
+- Time in relative format (e.g., "15 hours ago")
+- Post thumbnail
+- Vote count
+- Comment count
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Table of Contents
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## Features
+- Fetch posts from Hive.blog API.
+- Display post details including:
+  - Title
+  - Author
+  - Thumbnail
+  - Time (relative format)
+  - Vote and comment counts.
+- Fully responsive UI.
+
+---
+
+## Screenshots
+
+### Main UI
+![Main UI](screenshots/main_ui.png)
+
+### Post Details
+![Post Details](screenshots/post_details.png)
+
+---
+
+## Installation
+
+### Prerequisites
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) installed on your machine.
+- A device or emulator to run the application.
+
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/hive-posts-viewer.git
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
