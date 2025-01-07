@@ -37,11 +37,9 @@ This app demonstrates how to consume an API and display posts in a user-friendly
 
 ## Screenshots
 
-### Main UI
-![Main UI](screenshots/main_ui.png)
-
 ### Post Details
-![Post Details](screenshots/post_details.png)
+![Post Details](https://github.com/Vipul-sh01/Hive-posts-viewer/blob/main/Github1.jpg)
+![Post Details](https://github.com/Vipul-sh01/Hive-posts-viewer/blob/main/github2.jpg)
 
 ---
 
@@ -51,10 +49,11 @@ This app demonstrates how to consume an API and display posts in a user-friendly
 - [Flutter SDK](https://flutter.dev/docs/get-started/install) installed on your machine.
 - A device or emulator to run the application.
 
+
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/hive-posts-viewer.git
+   git clone https://github.com/Vipul-sh01/Hive-posts-viewer.git
 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
