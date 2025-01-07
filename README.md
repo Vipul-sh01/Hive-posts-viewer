@@ -17,9 +17,6 @@ This app demonstrates how to consume an API and display posts in a user-friendly
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
