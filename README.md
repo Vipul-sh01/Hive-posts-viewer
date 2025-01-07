@@ -37,9 +37,11 @@ This app demonstrates how to consume an API and display posts in a user-friendly
 
 ## Screenshots
 
-### Post Details
-![Post Details](https://github.com/Vipul-sh01/Hive-posts-viewer/blob/main/Github1.jpg)
-![Post Details](https://github.com/Vipul-sh01/Hive-posts-viewer/blob/main/github2.jpg)
+<div align="center">
+  <img src="https://github.com/Vipul-sh01/Hive-posts-viewer/blob/main/Github1.jpg" alt="Post Details 1" width="45%">
+  <img src="https://github.com/Vipul-sh01/Hive-posts-viewer/blob/main/github2.jpg" alt="Post Details 2" width="45%">
+</div>
+
 
 ---
 
